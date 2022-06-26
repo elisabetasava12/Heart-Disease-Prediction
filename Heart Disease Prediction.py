@@ -1,3 +1,4 @@
+#
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -12,7 +13,7 @@ import matplotlib.pyplot as plt
 # In[25]:
 
 
-df=pd.read_csv('C:/Users/sava_/OneDrive/Desktop/ALTELE/pt_python/heart (1).csv')
+df=pd.read_csv('heart.csv')
 
 
 # In[26]:
